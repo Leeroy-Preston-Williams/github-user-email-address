@@ -6,7 +6,7 @@
 #			Should you want to contant them.
 
 import requests
-import argparse, os
+import argparse
 
 help_message = """
 	This program is used for finding the email address belonging to a github user's account.
